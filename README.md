@@ -88,6 +88,10 @@ I ended up borrowing a lot of syntaxes and implementation details (I never thoug
 
 I thought this was going to be a sweet one week project to make for my upcoming productivity app (this works well in a todolist). However, it stretched into a whole month in which I spent a good chunk of time learning about CI/CD. I eventually was able to implement [`semantic-release`](https://github.com/semantic-release/semantic-release), and package bundlers plus everything in `package.json` actually makes sense now.
 
+## BUG
+
+If only one node, reorder end calls "removeChild" error
+
 ## TODO
 
 1. Gradually drop elements, as in React-Beautiful-DnD
